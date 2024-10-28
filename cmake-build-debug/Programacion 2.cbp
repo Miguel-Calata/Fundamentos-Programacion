@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Programacion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programacion">
+				<Option output="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Programacion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programacion"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programacion/fast">
+				<Option output="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Programacion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.3.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programacion/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Intento_funciones.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_11_Miguel Calata_else.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_11_Miguel Calata_if.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_12_ Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_12_Miguel Calata_Calificaciones.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_13_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_14_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_15_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_16_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_17_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_18_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_19_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_1_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_20_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_21_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_22_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_24_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_25_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_26_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_27_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_28_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_29_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_2_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_30_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_32_Miguel_Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_33_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_34_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_35_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_36_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_39_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_3_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_40_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_40_Miguel Calata_Pares.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_41_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_42_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_43_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_44_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_45_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_46_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_4_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_54_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_55_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_56_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_58_Miiguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_59_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_5_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_60_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_61_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_62_Miguel Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_6_Miguel_Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Practica_8_Miguel_Calata.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/Tarea_03_MD.cpp">
+			<Option target="Programacion"/>
+		</Unit>
+		<Unit filename="C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

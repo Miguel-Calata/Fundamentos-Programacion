@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57a9de2f-5a0e-41d4-b43c-5e2d6397841e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57a9de2f-5a0e-41d4-b43c-5e2d6397841e" name="Changes" comment="" />
+      <created>1709755296856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709755296856</updated>
+      <workItem from="1709755297892" duration="10616000" />
+      <workItem from="1709823663928" duration="4216000" />
+      <workItem from="1709828233019" duration="1000" />
+      <workItem from="1709832222722" duration="3000" />
+      <workItem from="1710047493825" duration="182000" />
+      <workItem from="1710112114767" duration="1208000" />
+      <workItem from="1710129566165" duration="604000" />
+      <workItem from="1710191040968" duration="657000" />
+      <workItem from="1710207383139" duration="435000" />
+      <workItem from="1710256332723" duration="5138000" />
+      <workItem from="1710266602506" duration="3026000" />
+      <workItem from="1710339103266" duration="427000" />
+      <workItem from="1710363676419" duration="63000" />
+      <workItem from="1710420615996" duration="5829000" />
+      <workItem from="1710429059966" duration="5005000" />
+      <workItem from="1710437476514" duration="5749000" />
+      <workItem from="1710469316175" duration="26000" />
+      <workItem from="1710629748102" duration="2695000" />
+      <workItem from="1710639420235" duration="436000" />
+      <workItem from="1710737262726" duration="612000" />
+      <workItem from="1710738189467" duration="347000" />
+      <workItem from="1710781188571" duration="95000" />
+      <workItem from="1710860806166" duration="5020000" />
+      <workItem from="1710875598145" duration="3121000" />
+      <workItem from="1710901270547" duration="2259000" />
+      <workItem from="1710907666733" duration="3000" />
+      <workItem from="1710994995056" duration="490000" />
+      <workItem from="1711033379799" duration="1297000" />
+      <workItem from="1711035105335" duration="199000" />
+      <workItem from="1711036730600" duration="216000" />
+      <workItem from="1711044364195" duration="1423000" />
+      <workItem from="1711060230385" duration="720000" />
+      <workItem from="1711118947987" duration="643000" />
+      <workItem from="1711322535918" duration="24000" />
+      <workItem from="1712613949546" duration="4214000" />
+      <workItem from="1712631845966" duration="1376000" />
+      <workItem from="1712675856882" duration="3216000" />
+      <workItem from="1712686994771" duration="2443000" />
+      <workItem from="1712722777363" duration="372000" />
+      <workItem from="1712848377241" duration="3838000" />
+      <workItem from="1712858816535" duration="2262000" />
+      <workItem from="1713071393877" duration="1000" />
+      <workItem from="1713113986592" duration="826000" />
+      <workItem from="1713278652693" duration="273000" />
+      <workItem from="1713280412021" duration="3013000" />
+      <workItem from="1713300373495" duration="107000" />
+      <workItem from="1713385141214" duration="1592000" />
+      <workItem from="1713444823985" duration="1586000" />
+      <workItem from="1713452159106" duration="3120000" />
+      <workItem from="1713457951781" duration="502000" />
+      <workItem from="1713464940307" duration="4495000" />
+      <workItem from="1713877654605" duration="292000" />
+      <workItem from="1713878134253" duration="479000" />
+      <workItem from="1713884869374" duration="4000" />
+      <workItem from="1713885051334" duration="50000" />
+      <workItem from="1713885108080" duration="4634000" />
+      <workItem from="1714016549689" duration="54000" />
+      <workItem from="1714057856666" duration="4228000" />
+      <workItem from="1714072551030" duration="587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

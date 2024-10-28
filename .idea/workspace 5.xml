@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Programacion" targetName="Programacion" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57a9de2f-5a0e-41d4-b43c-5e2d6397841e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Programacion\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.4" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dKSV3V0zqcUxqAd4gl1MWrqrOr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Intento_funciones.cpp.executor": "Run",
+    "C/C++ File.Practica_1_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_2_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_32_Miguel_Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_33_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_34_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_35_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_36_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_39_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_3_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_40_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_40_Miguel Calata_Pares.cpp.executor": "Run",
+    "C/C++ File.Practica_41_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_42_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_43_Miguel Calata.cpp.executor": "Debug",
+    "C/C++ File.Practica_44_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_45_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_46_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_54_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_55_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_56_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_58_Miiguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_59_Miguel Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_6_Miguel_Calata.cpp.executor": "Run",
+    "C/C++ File.Practica_8_Miguel_Calata.cpp.executor": "Run",
+    "C/C++ File.Tarea_03_MD.cpp.executor": "Run",
+    "C/C++ File.prueba.executor": "Run",
+    "CMake Application.Programacion.executor": "Run",
+    "CMake Application.Unnamed.executor": "Run",
+    "Python tests.Python tests in bin.executor": "Run",
+    "Python.$PyInterpreterDirectory$.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Migue/iCloud Drive/iCloudDrive/Universidad/Programacion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.Practica_59_Miguel Calata.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica_54_Miguel Calata.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacion" TARGET_NAME="Practica_54_Miguel Calata.cpp" CONFIG_NAME="Practica_54_Miguel Calata.cpp">
+      <option name="sourceFile" value="Practica_54_Miguel Calata.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica_55_Miguel Calata.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacion" TARGET_NAME="Practica_55_Miguel Calata.cpp" CONFIG_NAME="Practica_55_Miguel Calata.cpp">
+      <option name="sourceFile" value="Practica_55_Miguel Calata.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica_56_Miguel Calata.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacion" TARGET_NAME="Practica_56_Miguel Calata.cpp" CONFIG_NAME="Practica_56_Miguel Calata.cpp">
+      <option name="sourceFile" value="Practica_56_Miguel Calata.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica_58_Miiguel Calata.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacion" TARGET_NAME="Practica_58_Miiguel Calata.cpp" CONFIG_NAME="Practica_58_Miiguel Calata.cpp">
+      <option name="sourceFile" value="Practica_58_Miiguel Calata.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practica_59_Miguel Calata.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Programacion" TARGET_NAME="Practica_59_Miguel Calata.cpp" CONFIG_NAME="Practica_59_Miguel Calata.cpp">
+      <option name="sourceFile" value="Practica_59_Miguel Calata.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.Practica_59_Miguel Calata.cpp" />
+      <item itemvalue="C/C++ File.Practica_58_Miiguel Calata.cpp" />
+      <item itemvalue="C/C++ File.Practica_56_Miguel Calata.cpp" />
+      <item itemvalue="C/C++ File.Practica_55_Miguel Calata.cpp" />
+      <item itemvalue="C/C++ File.Practica_54_Miguel Calata.cpp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Practica_59_Miguel Calata.cpp" />
+        <item itemvalue="C/C++ File.Practica_58_Miiguel Calata.cpp" />
+        <item itemvalue="C/C++ File.Practica_56_Miguel Calata.cpp" />
+        <item itemvalue="C/C++ File.Practica_55_Miguel Calata.cpp" />
+        <item itemvalue="C/C++ File.Practica_54_Miguel Calata.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57a9de2f-5a0e-41d4-b43c-5e2d6397841e" name="Changes" comment="" />
+      <created>1709755296856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709755296856</updated>
+      <workItem from="1709755297892" duration="10616000" />
+      <workItem from="1709823663928" duration="4216000" />
+      <workItem from="1709828233019" duration="1000" />
+      <workItem from="1709832222722" duration="3000" />
+      <workItem from="1710047493825" duration="182000" />
+      <workItem from="1710112114767" duration="1208000" />
+      <workItem from="1710129566165" duration="604000" />
+      <workItem from="1710191040968" duration="657000" />
+      <workItem from="1710207383139" duration="435000" />
+      <workItem from="1710256332723" duration="5138000" />
+      <workItem from="1710266602506" duration="3026000" />
+      <workItem from="1710339103266" duration="427000" />
+      <workItem from="1710363676419" duration="63000" />
+      <workItem from="1710420615996" duration="5829000" />
+      <workItem from="1710429059966" duration="5005000" />
+      <workItem from="1710437476514" duration="5749000" />
+      <workItem from="1710469316175" duration="26000" />
+      <workItem from="1710629748102" duration="2695000" />
+      <workItem from="1710639420235" duration="436000" />
+      <workItem from="1710737262726" duration="612000" />
+      <workItem from="1710738189467" duration="347000" />
+      <workItem from="1710781188571" duration="95000" />
+      <workItem from="1710860806166" duration="5020000" />
+      <workItem from="1710875598145" duration="3121000" />
+      <workItem from="1710901270547" duration="2259000" />
+      <workItem from="1710907666733" duration="3000" />
+      <workItem from="1710994995056" duration="490000" />
+      <workItem from="1711033379799" duration="1297000" />
+      <workItem from="1711035105335" duration="199000" />
+      <workItem from="1711036730600" duration="216000" />
+      <workItem from="1711044364195" duration="1423000" />
+      <workItem from="1711060230385" duration="720000" />
+      <workItem from="1711118947987" duration="643000" />
+      <workItem from="1711322535918" duration="24000" />
+      <workItem from="1712613949546" duration="4214000" />
+      <workItem from="1712631845966" duration="1376000" />
+      <workItem from="1712675856882" duration="3216000" />
+      <workItem from="1712686994771" duration="2443000" />
+      <workItem from="1712722777363" duration="372000" />
+      <workItem from="1712848377241" duration="3838000" />
+      <workItem from="1712858816535" duration="2262000" />
+      <workItem from="1713071393877" duration="1000" />
+      <workItem from="1713113986592" duration="826000" />
+      <workItem from="1713131692280" duration="1934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Practica_59_Miguel Calata.cpp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
